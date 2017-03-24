@@ -1,0 +1,45 @@
+/* Main application Sass (.scss) */
+
+body {
+	background-color: #ccc;
+}
+
+/* fix some bootstrap styles */
+
+.hero-unit {
+	width:100%;
+	background-color:white;
+	padding:16px;
+	border-radius: 6px;
+	margin:10px 0 10px 0;
+
+}
+
+header .container .nav {
+	border-radius: 6px;
+	border: 2px solid #aaa;
+	margin-left:-10px;
+}
+
+header .container .nav li {
+	display: inline-block!important;
+	margin: 4px;
+}
+
+.row {
+	width:100%;
+}
+
+.span4 {
+	width: 40%;
+}
+
+.span4, .span8 {
+	display: inline-block;
+}
+
+
+
+
+
+

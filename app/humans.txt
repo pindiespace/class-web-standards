@@ -1,0 +1,58 @@
+ 
+                        
+
+
+                                
+    /* TEAM */
+
+                                
+    Your title: Slam Thunderhide.
+
+                                
+    Site: http://plyojump.com.
+
+                                
+    Twitter: @pindiespace.
+
+                                
+    Location: Los Angeles, CA, USA.
+
+                             
+
+                 
+                        [...]
+						
+
+
+    							
+    /* THANKS */
+
+    							
+    Name: Kepler.
+
+    						
+
+                 
+                        [...]
+                        
+
+
+                                
+    /* SITE */
+
+                                
+    Last update: 2017/03/10 
+
+                                
+    Standards: HTML5, CSS3, JavaScript, MicroData, Google Analytics, Facebook and Twitter meta-data.
+
+                                
+    Components: Modernizr.
+
+                                
+    Software: NodeJS, Sublime Text.
+       
+                            
+
+
+                    
